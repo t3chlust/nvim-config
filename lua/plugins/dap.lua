@@ -1,1 +1,1 @@
-return {{"mfussenegger/nvim-dap", dependencies = {"rcarriga/nvim-dap-ui", "nvim-neotest/nvim-nio"}}}
+return {"mfussenegger/nvim-dap", dependencies = {"nvim-neotest/nvim-nio"}}
